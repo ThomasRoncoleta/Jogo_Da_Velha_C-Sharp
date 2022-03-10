@@ -1,0 +1,21 @@
+D:\VS_2019 Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csprojAssemblyReference.cache
+D:\VS_2019 Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Form1.resources
+D:\VS_2019 Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Properties.Resources.resources
+D:\VS_2019 Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.GenerateResource.cache
+D:\VS_2019 Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.CoreCompileInputs.cache
+D:\VS_2019 Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe.config
+D:\VS_2019 Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+D:\VS_2019 Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+D:\VS_2019 Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.exe
+D:\VS_2019 Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.pdb
+D:\Projeto_Jogo_Da_Velha\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe.config
+D:\Projeto_Jogo_Da_Velha\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+D:\Projeto_Jogo_Da_Velha\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+D:\Projeto_Jogo_Da_Velha\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.AssemblyReference.cache
+D:\Projeto_Jogo_Da_Velha\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.SuggestedBindingRedirects.cache
+D:\Projeto_Jogo_Da_Velha\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Form1.resources
+D:\Projeto_Jogo_Da_Velha\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Properties.Resources.resources
+D:\Projeto_Jogo_Da_Velha\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.GenerateResource.cache
+D:\Projeto_Jogo_Da_Velha\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.CoreCompileInputs.cache
+D:\Projeto_Jogo_Da_Velha\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.exe
+D:\Projeto_Jogo_Da_Velha\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.pdb
